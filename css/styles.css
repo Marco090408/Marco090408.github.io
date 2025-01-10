@@ -65,3 +65,8 @@ footer {
     background-color: #4CAF50;
     color: white;
 }
+
+.instagram_link {
+    color: white;
+    text-decoration: underline;
+}
