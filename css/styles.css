@@ -163,3 +163,11 @@ footer {
 .room_header {
     padding-left: 2rem;
 }
+
+ol li {
+    font-weight: bold;
+}
+
+li > p {
+    font-weight: normal;
+}
